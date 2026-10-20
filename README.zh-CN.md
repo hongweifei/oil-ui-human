@@ -26,13 +26,13 @@ Oil UI 是面向 AI 代理的界面设计 Skill：首先提出若干真正存在
 将下列指令交给支持安装 Skill 的代理：
 
 ```text
-请为我安装这个 Skill：运行 npx skills add oil-oil/oil-ui
+请为我安装这个 Skill：运行 npx skills add hongweifei/oil-ui-human
 ```
 
 或者在终端中执行：
 
 ```bash
-npx skills add oil-oil/oil-ui
+npx skills add hongweifei/oil-ui-human
 ```
 
 安装后即可使用，无需额外配置。

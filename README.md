@@ -26,13 +26,13 @@ Oil UI is an interface design skill for AI agents. It explores a few genuinely d
 Send this to an agent that can install skills:
 
 ```text
-Install this skill for me: run npx skills add oil-oil/oil-ui
+Install this skill for me: run npx skills add hongweifei/oil-ui-human
 ```
 
 Or run this in your terminal:
 
 ```bash
-npx skills add oil-oil/oil-ui
+npx skills add hongweifei/oil-ui-human
 ```
 
 It's ready to use right after installation, with nothing to configure.
